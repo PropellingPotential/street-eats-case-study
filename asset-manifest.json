@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/street-eats-case-study/static/css/main.4062dc89.css",
+    "main.js": "/street-eats-case-study/static/js/main.59c58ba0.js",
+    "static/js/453.aa4ddb35.chunk.js": "/street-eats-case-study/static/js/453.aa4ddb35.chunk.js",
+    "index.html": "/street-eats-case-study/index.html",
+    "main.4062dc89.css.map": "/street-eats-case-study/static/css/main.4062dc89.css.map",
+    "main.59c58ba0.js.map": "/street-eats-case-study/static/js/main.59c58ba0.js.map",
+    "453.aa4ddb35.chunk.js.map": "/street-eats-case-study/static/js/453.aa4ddb35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4062dc89.css",
+    "static/js/main.59c58ba0.js"
+  ]
+}
